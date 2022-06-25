@@ -1,7 +1,13 @@
 <!DOCTYPE html>
+
 <html>
 <body>
 <h2>Radio Buttons</h2>
+
+
+
+
+<h1>heloo!Areeza</h1>
 <p>Choose your favorite Web language:</p>
 <form>
 <input type="radio" id="html" name="fav_language" value="HTML">
