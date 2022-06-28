@@ -2,10 +2,24 @@
 
 <html>
 <body>
-<h2>Radio Buttons</h2>
-
-
-
+<h2>WECOME TO THIS WEBPAGE</h2>
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table> 
 
 <h1>heloo!Areeza</h1>
 <p>Choose your favorite Web language:</p>
