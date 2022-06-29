@@ -1,9 +1,8 @@
-
 <!DOCTYPE html>
 
 <html>
 <body>
-<h1>new feature added</h1>
+<h1>this job is automated</h1>
 <p>enter here any modification</p>
 <p>please help us modify </p>
 <h2>WECOME TO THIS WEBPAGE</h2>
